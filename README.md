@@ -1,16 +1,13 @@
-## Hi there 👋
+<p align="center">
+<img width="450" height="1000" alt="image" src="https://github.com/user-attachments/assets/96012f4b-a654-4261-a872-8cae9ed6f434" />
 
-<!--
-**Iovelyflower/Iovelyflower** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+▄︻デ══━一
+
+
+
+
+<p align="center">
+<img width="230" height="340" alt="image" src="https://github.com/user-attachments/assets/4e5ff4f5-1cd8-4012-8e11-ffca08167fa9" />
